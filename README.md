@@ -1,13 +1,17 @@
 # Cheat-Sheets
 
-# Python Books
-✅ Programming in Python 3: A Complete Introduction to the Python Language (cze version 2012)  
-📝 Python Tricks: A Buffet of Awesome Python Features (eng version 2017)  
-
-# Python Cheatsheets
+Folders contain theory, notebooks contain tools to use for them
+# Python (Books + Cheatsheets)
+✅ Programming in Python 3: A Complete Introduction to the Python Language (2009)  
+📝 Python Tricks: A Buffet of Awesome Python Features (2017)  
 📝 https://gto76.github.io/python-cheatsheet/  
 📝 https://learnxinyminutes.com/docs/python/  
 📝 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/  
 
-# Python easy lookup reference  
-https://speedsheet.io/
+# NumPy (DeepLearning.AI Courses)
+📝 Mathematics for Machine Learning and Data Science  
+📝 Machine Learning  
+📝 Deep Learning  
+📝 Natural Language Processing  
+
+# Pandas
