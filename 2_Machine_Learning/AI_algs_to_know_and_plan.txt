@@ -1,0 +1,8 @@
+Algorithms:
+ - Linear Regression, Logistic Regression, Neural Network
+ - Support Vector Machines, Naive Bayes
+ - Decision Trees
+
+
+My Project / Portfolio (Odoo, Travels):
+ - Process all into one: AI Courses (Maths+ML+DL+NLP) + NNFS.IO Book + (ChatGBT video) + my Math sheets + BC thesis + ML Matfyz Course + SVM doc -> put them together into ipynb/docs -> think of how to include it into my Odoo website [graph from basic /*+- operators to AI math functions,, WHERE DO YOU USE LOG? DERIVATES? arg., but also parameters like lambda/learning rate, where applicable as different bubble in the graph or sth.]
