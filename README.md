@@ -15,3 +15,7 @@ Folders contain theory, notebooks contain tools to use for them
 📝 Natural Language Processing  
 
 # Pandas
+
+
+
+Cheat sheets, reference, learning (DL.ai)
