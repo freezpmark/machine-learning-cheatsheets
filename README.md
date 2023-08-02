@@ -9,4 +9,4 @@
  - https://learnxinyminutes.com/docs/python/
  - https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
-Inside the folders, there are also learning resources from my university (STU FIIT) and DeepLearning.AI's courses.
+Inside the folders, there are also learning resources from my university (FIIT STU) and DeepLearning.AI's courses.
