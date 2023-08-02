@@ -1,21 +1,12 @@
-# Cheat-Sheets
+# machine-learning-cheatsheets
 
-Folders contain theory, notebooks contain tools to use for them
-# Python (Books + Cheatsheets)
-✅ Programming in Python 3: A Complete Introduction to the Python Language (2009)  
-📝 Python Tricks: A Buffet of Awesome Python Features (2017)  
-📝 https://gto76.github.io/python-cheatsheet/  
-📝 https://learnxinyminutes.com/docs/python/  
-📝 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/  
+### My cheatsheets for Python and Machine Learning content which includes:
+ - all NumPy and Pandas operations that were used in DeepLearning.AI courses
+ - all Python operations that were used in book "Programming in Python 3" by Mark Summerfield
 
-# NumPy (DeepLearning.AI Courses)
-📝 Mathematics for Machine Learning and Data Science  
-📝 Machine Learning  
-📝 Deep Learning  
-📝 Natural Language Processing  
+### Other public Python cheatsheets:
+ - https://gto76.github.io/python-cheatsheet/
+ - https://learnxinyminutes.com/docs/python/
+ - https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
-# Pandas
-
-
-
-Cheat sheets, reference, learning (DL.ai)
+Inside the folders, there are also learning resources from my university (STU FIIT) and DeepLearning.AI's courses.
